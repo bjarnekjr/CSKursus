@@ -15,7 +15,7 @@ namespace Enum
             int kort1Værdi = 2;
             Kortfarve kortf = Kortfarve.Spar;
             Console.WriteLine(kortf.ToString() + " " + kort1Værdi.ToString() );
-            Random r = ;
+            Random r = new Random();
             kortvaerdi kv1 = kortvaerdi.Dame;
             Kortfarve kortf2 = Kortfarve.Ruder;
             Console.WriteLine(kortf2 + " " + kv1);
