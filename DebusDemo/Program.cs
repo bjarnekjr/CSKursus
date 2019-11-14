@@ -6,7 +6,7 @@ namespace DebugDemo
     {
         static void Main(string[] args)
         {
-            //Prøv det
+            
             Console.WriteLine("Debug demo");
 
             // Variabel
