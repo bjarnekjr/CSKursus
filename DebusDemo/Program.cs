@@ -7,6 +7,7 @@ namespace DebugDemo
         static void Main(string[] args)
         {
             //askdfj
+            //ny line
             //2
             Console.WriteLine("Debug demo");
 
