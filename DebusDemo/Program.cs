@@ -8,7 +8,7 @@ namespace DebugDemo
         {
             //askdfj
             //ny line
-            //2
+            
             Console.WriteLine("Debug demo");
 
             // Variabel
