@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beregninger", "Beregninger\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hukommelse", "Hukommelse\Hukommelse.csproj", "{1556014D-7C73-442A-B32E-CF1007431A28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Egenskaber", "Egenskaber\Egenskaber.csproj", "{85F7B0E7-C8B1-4CC3-9E84-882431DA55D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{1556014D-7C73-442A-B32E-CF1007431A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1556014D-7C73-442A-B32E-CF1007431A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1556014D-7C73-442A-B32E-CF1007431A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85F7B0E7-C8B1-4CC3-9E84-882431DA55D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85F7B0E7-C8B1-4CC3-9E84-882431DA55D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85F7B0E7-C8B1-4CC3-9E84-882431DA55D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85F7B0E7-C8B1-4CC3-9E84-882431DA55D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
