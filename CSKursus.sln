@@ -3,23 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1\Demo1.csproj", "{B957DDB1-F02B-44B1-82B4-63571BC1C78E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1", "Demo1\Demo1.csproj", "{B957DDB1-F02B-44B1-82B4-63571BC1C78E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugDemo", "DebusDemo\DebugDemo.csproj", "{439EBCB4-6C47-4237-A862-E439F79655F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DebugDemo", "DebusDemo\DebugDemo.csproj", "{439EBCB4-6C47-4237-A862-E439F79655F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpgVariabler", "VAriabler\OpgVariabler.csproj", "{E519EA20-F4C9-4FC0-B03E-BB9796D60891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpgVariabler", "VAriabler\OpgVariabler.csproj", "{E519EA20-F4C9-4FC0-B03E-BB9796D60891}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regnemaskine", "Regnemaskine\Regnemaskine.csproj", "{2E74BCF6-1513-481E-9EF6-FA8841E7F89F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regnemaskine", "Regnemaskine\Regnemaskine.csproj", "{2E74BCF6-1513-481E-9EF6-FA8841E7F89F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strenge", "Strenge\Strenge.csproj", "{B5426F28-D99E-4238-B71C-1B2A205BA2FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strenge", "Strenge\Strenge.csproj", "{B5426F28-D99E-4238-B71C-1B2A205BA2FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{0F15C019-4CBA-4EDC-8240-1F9B948E71C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{0F15C019-4CBA-4EDC-8240-1F9B948E71C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow", "Flow\Flow.csproj", "{32BDBEB5-8B78-452A-BD55-7AF15976B112}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flow", "Flow\Flow.csproj", "{32BDBEB5-8B78-452A-BD55-7AF15976B112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoder", "Metoder\Metoder.csproj", "{A42EA4ED-CB99-46C8-8383-D07DC2A495A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metoder", "Metoder\Metoder.csproj", "{A42EA4ED-CB99-46C8-8383-D07DC2A495A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fejlhåndtering", "Fejlhåndtering\Fejlhåndtering.csproj", "{AB52F06C-8217-46E8-B1CA-CA926E27904D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fejlhåndtering", "Fejlhåndtering\Fejlhåndtering.csproj", "{AB52F06C-8217-46E8-B1CA-CA926E27904D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Klasser", "Klasser\Klasser.csproj", "{B7E2D845-67A2-430C-A6EB-AE49F1D88704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terning", "Terning\Terning.csproj", "{AEF6FF6E-CC90-45EF-8AE1-42EF38BCFA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{32344047-20AA-4B14-803B-89A30FC440D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmlDemo", "UmlDemo\UmlDemo.csproj", "{C2A7D0BB-0CE5-4A58-A739-84F68C1EE1CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beregninger", "Beregninger\Beregninger.csproj", "{62D06989-71F3-45DC-ADF4-6944F14DD5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hukommelse", "Hukommelse\Hukommelse.csproj", "{1556014D-7C73-442A-B32E-CF1007431A28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +75,30 @@ Global
 		{AB52F06C-8217-46E8-B1CA-CA926E27904D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB52F06C-8217-46E8-B1CA-CA926E27904D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB52F06C-8217-46E8-B1CA-CA926E27904D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E2D845-67A2-430C-A6EB-AE49F1D88704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E2D845-67A2-430C-A6EB-AE49F1D88704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E2D845-67A2-430C-A6EB-AE49F1D88704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E2D845-67A2-430C-A6EB-AE49F1D88704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF6FF6E-CC90-45EF-8AE1-42EF38BCFA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF6FF6E-CC90-45EF-8AE1-42EF38BCFA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF6FF6E-CC90-45EF-8AE1-42EF38BCFA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF6FF6E-CC90-45EF-8AE1-42EF38BCFA54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32344047-20AA-4B14-803B-89A30FC440D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32344047-20AA-4B14-803B-89A30FC440D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32344047-20AA-4B14-803B-89A30FC440D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32344047-20AA-4B14-803B-89A30FC440D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A7D0BB-0CE5-4A58-A739-84F68C1EE1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A7D0BB-0CE5-4A58-A739-84F68C1EE1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A7D0BB-0CE5-4A58-A739-84F68C1EE1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A7D0BB-0CE5-4A58-A739-84F68C1EE1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D06989-71F3-45DC-ADF4-6944F14DD5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D06989-71F3-45DC-ADF4-6944F14DD5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D06989-71F3-45DC-ADF4-6944F14DD5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D06989-71F3-45DC-ADF4-6944F14DD5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1556014D-7C73-442A-B32E-CF1007431A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1556014D-7C73-442A-B32E-CF1007431A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1556014D-7C73-442A-B32E-CF1007431A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1556014D-7C73-442A-B32E-CF1007431A28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
