@@ -9,6 +9,7 @@ namespace Terning3
             Terning t = new Terning();
             t.Skriv();
             t.Ryst();
+            t.Skriv();
             t.Vaerdi = 5;
             t.Skriv();
             
@@ -42,6 +43,10 @@ namespace Terning3
         public void Skriv()
         {
             Console.WriteLine("["+this.Vaerdi+"]");
+        }
+        public Terning()
+        {
+            Ryst();
         }
 
     }

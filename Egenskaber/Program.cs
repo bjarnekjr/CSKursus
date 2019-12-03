@@ -45,7 +45,7 @@ namespace Egenskaber
 
         public string FuldtNavn()
         {
-            return this.Fornavn + " " + this.Efternavn;
+            return Fornavn + " " + Efternavn;
         }
 
 
