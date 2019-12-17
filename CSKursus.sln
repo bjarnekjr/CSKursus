@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events1", "Events1\Events1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsKreditmax", "EventsKrditmax\EventsKreditmax.csproj", "{E8FA2F17-8C72-41C5-BF7D-4CD9352C0B24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq1ToObject", "Linq1ToObject\Linq1ToObject.csproj", "{0432CC14-8E68-4542-BC0B-104D6B155644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2ToObjectsPerson", "Linq2ToObjectsPerson\Linq2ToObjectsPerson.csproj", "{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{E8FA2F17-8C72-41C5-BF7D-4CD9352C0B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8FA2F17-8C72-41C5-BF7D-4CD9352C0B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8FA2F17-8C72-41C5-BF7D-4CD9352C0B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0432CC14-8E68-4542-BC0B-104D6B155644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0432CC14-8E68-4542-BC0B-104D6B155644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0432CC14-8E68-4542-BC0B-104D6B155644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0432CC14-8E68-4542-BC0B-104D6B155644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

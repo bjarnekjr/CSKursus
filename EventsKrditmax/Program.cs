@@ -11,7 +11,7 @@ namespace EventsKrditmax
                 Console.WriteLine("Kredit overskredet");
                 Console.WriteLine("Saldo " + k.Saldo);
             };
-            k.SaldoStatus
+            
             k.Køb(100);
             k.Køb(600);
             
@@ -25,6 +25,7 @@ namespace EventsKrditmax
         public event EventHandler SaldoStatus;
         public string Navn { get; set; }
         public int Saldo { get; set; }
+   
         public int KreditMax { get; set; }
         public void Køb(int værdi)
         {
