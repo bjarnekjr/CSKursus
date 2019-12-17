@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq1ToObject", "Linq1ToObj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2ToObjectsPerson", "Linq2ToObjectsPerson\Linq2ToObjectsPerson.csproj", "{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async1", "Async1\Async1.csproj", "{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
