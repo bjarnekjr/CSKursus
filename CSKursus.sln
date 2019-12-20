@@ -49,25 +49,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Compare", "Interface_Compare\Interface_Compare.csproj", "{017E02A6-42E6-416C-B260-15F7D2C9111B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates1", "Delegates1\Delegates1.csproj", "{2956B76D-7B9F-4B3E-8F11-8620D9C5AC7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates1", "Delegates1\Delegates1.csproj", "{2956B76D-7B9F-4B3E-8F11-8620D9C5AC7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates2_Beregner", "Delegates2_Beregner\Delegates2_Beregner.csproj", "{D1DCF113-ECBE-4BD2-B8C4-C11DA3F24F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates2_Beregner", "Delegates2_Beregner\Delegates2_Beregner.csproj", "{D1DCF113-ECBE-4BD2-B8C4-C11DA3F24F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesFunc", "DelegatesFunc\DelegatesFunc.csproj", "{7F0F9F49-6306-439C-A35B-AF08C92AF581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesFunc", "DelegatesFunc\DelegatesFunc.csproj", "{7F0F9F49-6306-439C-A35B-AF08C92AF581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lamba1", "Lamba1\Lamba1.csproj", "{42CCD9CB-E43A-4980-AA6C-B45BE1E6EC3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lamba1", "Lamba1\Lamba1.csproj", "{42CCD9CB-E43A-4980-AA6C-B45BE1E6EC3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambaRegnemaskine", "LambaRegnemaskine\LambaRegnemaskine.csproj", "{416AE6CB-8315-42DA-9571-C58185B731D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambaRegnemaskine", "LambaRegnemaskine\LambaRegnemaskine.csproj", "{416AE6CB-8315-42DA-9571-C58185B731D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events1", "Events1\Events1.csproj", "{92576208-6F2C-4A2B-BEC4-5735DCB57BDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events1", "Events1\Events1.csproj", "{92576208-6F2C-4A2B-BEC4-5735DCB57BDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsKreditmax", "EventsKrditmax\EventsKreditmax.csproj", "{E8FA2F17-8C72-41C5-BF7D-4CD9352C0B24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsKreditmax", "EventsKrditmax\EventsKreditmax.csproj", "{E8FA2F17-8C72-41C5-BF7D-4CD9352C0B24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq1ToObject", "Linq1ToObject\Linq1ToObject.csproj", "{0432CC14-8E68-4542-BC0B-104D6B155644}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq1ToObject", "Linq1ToObject\Linq1ToObject.csproj", "{0432CC14-8E68-4542-BC0B-104D6B155644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2ToObjectsPerson", "Linq2ToObjectsPerson\Linq2ToObjectsPerson.csproj", "{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq2ToObjectsPerson", "Linq2ToObjectsPerson\Linq2ToObjectsPerson.csproj", "{3207E1CC-6F94-4471-AC79-CB80F3F7C73B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async1", "Async1\Async1.csproj", "{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Async1", "Async1\Async1.csproj", "{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aa40_1", "AA40_1\Aa40_1.csproj", "{538B0EE1-97B8-45B0-B113-ECA41E2898D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aa40_2", "Aa40_2\Aa40_2.csproj", "{4C3F6D83-B4EB-4945-9101-AE1ACEC73D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aa40_3", "Aa40_3\Aa40_3.csproj", "{36F50E7E-C07D-41DA-ACF5-ECE5B41B8CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +213,18 @@ Global
 		{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B730DD6-D973-4A6B-8517-3CCF4ABD0CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538B0EE1-97B8-45B0-B113-ECA41E2898D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538B0EE1-97B8-45B0-B113-ECA41E2898D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538B0EE1-97B8-45B0-B113-ECA41E2898D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538B0EE1-97B8-45B0-B113-ECA41E2898D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3F6D83-B4EB-4945-9101-AE1ACEC73D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3F6D83-B4EB-4945-9101-AE1ACEC73D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3F6D83-B4EB-4945-9101-AE1ACEC73D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3F6D83-B4EB-4945-9101-AE1ACEC73D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F50E7E-C07D-41DA-ACF5-ECE5B41B8CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F50E7E-C07D-41DA-ACF5-ECE5B41B8CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F50E7E-C07D-41DA-ACF5-ECE5B41B8CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F50E7E-C07D-41DA-ACF5-ECE5B41B8CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
